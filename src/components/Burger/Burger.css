@@ -1,0 +1,64 @@
+.Burger {
+  width: 100%;
+  margin: auto;
+  height: 250px;
+  overflow: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.Burger::-webkit-scrollbar,
+.CheckoutBurger::-webkit-scrollbar {
+  display: none;
+}
+.CheckoutBurger {
+  width: 100%;
+  margin: auto;
+  height: 300px;
+  overflow: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+/* Hide scrollbar for IE and Edge */
+.Burger,
+.CheckoutBurger {
+  -ms-overflow-style: none;
+}
+.Burger .info {
+  font-family: "Lobster", cursive;
+  letter-spacing: 1px;
+  font-size: 22px;
+  color: #da7330;
+  /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000; */
+}
+@media (min-width: 500px) and (min-height: 400px) {
+  .Burger {
+    width: 350px;
+    height: 300px;
+    overflow: auto;
+  }
+  .CheckoutBurger {
+    height: 300px;
+    overflow: auto;
+  }
+}
+@media (min-width: 1000px) and (min-height: 700px) {
+  .Burger {
+    width: 700px;
+    height: 600px;
+    overflow: auto;
+  }
+}
+@media (min-width: 500px) and (min-height: 401px) {
+  .Burger {
+    width: 450px;
+    height: 400px;
+    overflow: auto;
+  }
+  .CheckoutBurger {
+    height: 300px;
+    overflow: auto;
+  }
+}

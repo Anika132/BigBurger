@@ -1,0 +1,25 @@
+.Auth {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid #eee;
+  padding: 10px;
+  box-sizing: border-box;
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(204, 204, 204, 1) 100%
+  );
+}
+.Auth .error {
+  color: red;
+  text-transform: capitalize;
+}
+
+@media (min-width: 600px) {
+  .Auth {
+    width: 500px;
+  }
+}

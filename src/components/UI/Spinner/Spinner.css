@@ -1,0 +1,15 @@
+.Modal {
+  text-align: center;
+  padding: 3%;
+}
+.Modal img {
+  width: 60%;
+  border-radius: 50%;
+}
+.Modal p {
+  color: red;
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: "Lobster", cursive;
+  letter-spacing: 1px;
+}
