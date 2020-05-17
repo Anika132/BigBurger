@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BigBurger/static/css/main.5596eb79.chunk.css",
+    "main.js": "/BigBurger/static/js/main.35a13e67.chunk.js",
+    "main.js.map": "/BigBurger/static/js/main.35a13e67.chunk.js.map",
+    "runtime~main.js": "/BigBurger/static/js/runtime~main.9d156434.js",
+    "runtime~main.js.map": "/BigBurger/static/js/runtime~main.9d156434.js.map",
+    "static/js/2.c6a9c019.chunk.js": "/BigBurger/static/js/2.c6a9c019.chunk.js",
+    "static/js/2.c6a9c019.chunk.js.map": "/BigBurger/static/js/2.c6a9c019.chunk.js.map",
+    "static/css/3.9c56c590.chunk.css": "/BigBurger/static/css/3.9c56c590.chunk.css",
+    "static/js/3.92c4d580.chunk.js": "/BigBurger/static/js/3.92c4d580.chunk.js",
+    "static/js/3.92c4d580.chunk.js.map": "/BigBurger/static/js/3.92c4d580.chunk.js.map",
+    "static/css/4.3adef230.chunk.css": "/BigBurger/static/css/4.3adef230.chunk.css",
+    "static/js/4.0a021e30.chunk.js": "/BigBurger/static/js/4.0a021e30.chunk.js",
+    "static/js/4.0a021e30.chunk.js.map": "/BigBurger/static/js/4.0a021e30.chunk.js.map",
+    "static/css/5.06a2488c.chunk.css": "/BigBurger/static/css/5.06a2488c.chunk.css",
+    "static/js/5.a62c17ef.chunk.js": "/BigBurger/static/js/5.a62c17ef.chunk.js",
+    "static/js/5.a62c17ef.chunk.js.map": "/BigBurger/static/js/5.a62c17ef.chunk.js.map",
+    "index.html": "/BigBurger/index.html",
+    "precache-manifest.e2fbe0e4b334c61abe3cd82fba41c10a.js": "/BigBurger/precache-manifest.e2fbe0e4b334c61abe3cd82fba41c10a.js",
+    "service-worker.js": "/BigBurger/service-worker.js",
+    "static/css/3.9c56c590.chunk.css.map": "/BigBurger/static/css/3.9c56c590.chunk.css.map",
+    "static/css/4.3adef230.chunk.css.map": "/BigBurger/static/css/4.3adef230.chunk.css.map",
+    "static/css/5.06a2488c.chunk.css.map": "/BigBurger/static/css/5.06a2488c.chunk.css.map",
+    "static/css/main.5596eb79.chunk.css.map": "/BigBurger/static/css/main.5596eb79.chunk.css.map",
+    "static/media/404.gif": "/BigBurger/static/media/404.ad3b1512.gif",
+    "static/media/burger-logo.png": "/BigBurger/static/media/burger-logo.b8503d26.png",
+    "static/media/loading.gif": "/BigBurger/static/media/loading.89700c8f.gif"
+  }
+}
